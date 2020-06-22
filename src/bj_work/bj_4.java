@@ -1,6 +1,6 @@
 package bj_work;
 import java.util.Scanner;
-//백준 5543
+//백준 5543//
 public class bj_4 {
 
 	public static void main(String[] args) {
