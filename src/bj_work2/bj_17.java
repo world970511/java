@@ -1,7 +1,7 @@
 package bj_work2;
 
 import java.util.*;
-//
+//น้มุ2108
 public class bj_17 {
 	public static void main(String[] args) {
 		Scanner in=new Scanner(System.in);
